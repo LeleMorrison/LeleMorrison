@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Featured Projects  
-- **[GestioneOrdini-PhotoSi](https://github.com/LeleMorrison/GestioneOrdini-PhotoSi)** – Order management system built with **C#** with a **microservices* architecture   
+- **[GestioneOrdini-PhotoSi](https://github.com/LeleMorrison/GestioneOrdini-PhotoSi)** – Order management system built with **C#** with a **microservices** architecture   
 
 ---
 
@@ -25,13 +25,26 @@
 ## 📫 Let’s Connect  
 Feel free to reach out, collaborate, or explore my repositories 🚀  
 
+---
+
 # 📊 GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=leleMorrison&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=leleMorrison&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leleMorrison&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
+
+### ✍ Random Dev Quote  
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=leleMorrison&icon=0&color=0)](https://visitcount.itsvg.in)
