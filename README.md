@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Featured Projects  
-- **[GestioneOrdini-PhotoSi](https://github.com/LeleMorrison/GestioneOrdini-PhotoSi)** – Order management system built with **C#** with a **microservices** architecture   
+- **[GestioneOrdini](https://github.com/LeleMorrison/GestioneOrdini-PhotoSi)** – Order management system built with **C#** with a **microservices** architecture   
 
 ---
 
